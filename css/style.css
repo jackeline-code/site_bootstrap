@@ -1,0 +1,28 @@
+body {
+    background-color: #F86D50;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    max-width: 100%;
+    margin: auto;
+}
+
+.margin {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.text {
+    color: #C6028D;
+}
+
+.image{
+    width: 400px;
+    padding-top: 30px;
+}
+
+.bg-footer{
+    background-color: white;
+}
+
+.texto {
+    text-align: justify;
+}
